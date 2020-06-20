@@ -29,7 +29,7 @@ trainer = ListTrainer(chatbot)
 #trainer.train(training_data)
 
 # Training with English Corpus Data
-#trainer_corpus = ChatterBotCorpusTrainer(chatbot)
+trainer_corpus = ChatterBotCorpusTrainer(chatbot)
 #trainer_corpus.train(
-  #  'chatterbot.corpus.english'
+#    'chatterbot.corpus.english'
 #)
