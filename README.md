@@ -1,6 +1,6 @@
 NaijaBot
 <br/>
-A Chatbot built using Flask, Chatterbot   Jquery AJAX
+A Chatbot built using Flask, Chatterbot and AJAX
 <br/>
 Naijabot loves pidgin and can answer simple questions about Nigeria
 <br/>
