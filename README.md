@@ -10,6 +10,7 @@ Learning Resources; https://www.w3schools.com/jquery/jquery_ajax_load.asp ,
 <br/>https://studygyaan.com/python/create-web-based-chatbot-in-python-django-flask, 
 <br/>
 FLOW :
+<br/>
 User calls the flask endpoint 
 Sent message in the message box is sent to '/get' endpoint which calls a function on the trained natural langauge understanding module(chatterbot)
 <br/>
