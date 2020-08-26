@@ -2,6 +2,8 @@
 
 ## A Chatbot built using Flask, Chatterbot and AJAX
 
+LIVE_DEMO : https://naijaaskbot.herokuapp.com/
+
 ### Naijabot loves pidgin and can answer simple questions about Nigeria
 
 #### She requires specific questions e.g "Nigeria's Population?" to work properly, NLTK module isn't perfect.
